@@ -24,7 +24,7 @@
     <string name="lockscreen_hidden">Nessuna</string>
 
     <!-- Shows when people have clicked on the custom lockscreen shortcut [CHAR LIMIT=60] -->
-    <string name="custom_hint">Swipe sull'icona per avviare</string>
+    <string name="custom_hint">Swipe sull\'icona per avviare</string>
 
     <!-- Power Menu -->
     <string name="global_action_reboot">Riavvia</string>
